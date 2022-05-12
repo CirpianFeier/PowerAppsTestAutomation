@@ -1,10 +1,10 @@
 # File: frameworksteps.yml
 
 parameters:
-    OnlineUsername: ''
-    OnlinePassword: ''
+    OnlineUsername: 'Ciprian.feier@cantire.com'
+    OnlinePassword: 'C1pC@nt13r22'
     BrowserType: ''
-    OnlineUrl: ''
+    OnlineUrl: 'make.powerapps.com'
     TestAutomationURLFilePath: ''
     UsePrivateMode: ''
     LoginMethod: ''
