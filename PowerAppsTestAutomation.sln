@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.PowerApps.TestAutomation.Browser", "Microsoft.PowerApps.TestAutomation.Browser\Microsoft.PowerApps.TestAutomation.Browser.csproj", "{C9748803-F3CB-4531-B313-BC24D4D0BF0C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.PowerApps.TestAutomation.Browser", "Microsoft.PowerApps.TestAutomation.Browser\Microsoft.PowerApps.TestAutomation.Browser.csproj", "{449ae68c-fe59-4129-b85d-7e8d00796a6b}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.PowerApps.TestAutomation.Api", "Microsoft.PowerApps.TestAutomation.Api\Microsoft.PowerApps.TestAutomation.Api.csproj", "{CB621ADC-A2F3-4AD6-8E65-B29DC3034D54}"
 EndProject
